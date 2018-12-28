@@ -4,7 +4,7 @@
       <title>Add New Record in MySQL Database</title>
 <style>
 body{
-color:red;
+color:blue;
 }
 
 </style>
